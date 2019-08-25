@@ -1,0 +1,12 @@
+1001 clanguage science Chep tony 98/01/01 1-001 1099 yes
+1002 billybudd novel Chep tanhaoqiang 98/01/01 1-002 6700 yes
+1003 kim novel Chep aimmee 98/01/01 1-003 8800 yes
+1004 moonfleet novel Chep core 98/01/01 1-004 3473 no
+1005 princeotto novel Chep daisy 98/01/01 1-006 387478 yes
+1006 amy novel Chep darcy 98/01/01 1-008 4348 yes
+1007 thetell novel Chep mica 98/01/01 1-007 9876 yes
+1008 pers science Chep quella 98/01/01 1-005 3443 no
+1009 theagn novel Chep louise 98/01/01 1-012 3658 yes
+1010 lerace novel Chep danse 98/01/01 1-011 878 no
+1011 life novel Chep tanhaoqiang 98/01/01 1-010 635 yes
+1012 cross novel Chep tanhaoqiang 98/01/01 1-009 889 no
